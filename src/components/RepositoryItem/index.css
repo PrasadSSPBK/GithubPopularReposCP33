@@ -1,0 +1,39 @@
+.listItemContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  list-style-type: none;
+  background-color: #f8f8ff;
+  height: 300px;
+  width: 170px;
+  border-radius: 10px;
+}
+.listItemImg {
+  height: 60px;
+  width: 60px;
+}
+
+.listItemPara {
+  color: #e73959;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 16px;
+}
+.listItemCountContainer {
+  display: flex;
+}
+.countPara {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 13px;
+  padding: 0px;
+}
+.countImg {
+  height: 20px;
+  width: 20px;
+  margin-right: 5px;
+  margin-top: 10px;
+}

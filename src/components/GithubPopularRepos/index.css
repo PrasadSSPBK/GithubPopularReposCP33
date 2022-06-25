@@ -1,0 +1,22 @@
+.mainContainer {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+}
+.head {
+  color: #0f172a;
+  font-family: 'Lobster';
+  font-size: 25px;
+  font-weight: 700;
+  font-style: italic;
+  padding-top: 20;
+}
+.ulContainer {
+  display: flex;
+}
+.ulContainer1 {
+  display: flex;
+  flex-wrap: wrap;
+}
